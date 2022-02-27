@@ -1,0 +1,247 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    font-family: 'Fredoka', sans-serif;
+}
+
+
+.navbar-nav > li{
+   
+    padding-left:0%;;
+}
+
+#titre{
+    font-size: 55px;
+    margin-top: 8%;
+}
+
+.titre2{
+    margin-top: 4%;
+}
+
+.titre3{
+    margin-top: 5%;
+}
+
+.titre4{
+    margin-top: 1%;
+    margin-left: -1%;
+}
+
+.titre5{
+    margin-top: 3%;
+    color: white;
+}
+
+#smalltitre{
+    font-size: 30px;
+    text-align: center;
+}
+
+h1 #redcolor{
+    color:red;
+}
+
+h1 #bluecolor{
+    color:blue;
+}
+
+h2 #purplecolor{
+    color: rgb(186, 0, 211);
+}
+
+
+.para1{
+    margin-top: 4% ;
+    font-size: 20px;
+    max-width: 60%;
+
+}
+
+#text1para1{
+    margin-left: -2% ;
+}
+
+#image1{
+    margin-left: 60%;
+    margin-top: -28%;
+    width: 40%;
+	height: 40%;
+}
+
+#logo{
+    max-width: 40%;
+    margin-top: -16%;
+    margin-left: -3%;
+}
+
+#logo2{
+    width: 80px;
+    margin-top: 0%;
+    margin-left: 0%;
+}
+
+.para2{
+ 
+    font-size: 20px;
+    margin-top: -52%;
+    margin-left: 8%;
+}
+
+.para4{
+    margin-top:  0%;
+}
+
+#text1para2{
+    margin-top: 6%;
+    margin-left: -3%;
+    max-width: 50%;
+}
+
+#text2para2{
+    margin-top: 7%;
+    margin-left: -3%;
+    color: white;
+}
+
+#text1para3{
+    font-size: 19px;
+    margin-left: 12%;
+    max-width: 55%;
+    margin-top: 0%;
+    color: white;
+    background-color: rgba(77, 77, 77, 0.37);
+    padding: 2%;
+}
+
+#textpara4{
+    color: white;
+    margin-top: 3%;
+}
+
+.fond1{
+    
+    margin-top: 55%;
+    height: 100%;
+    width: 100%;
+    background: url("image/fond1.1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fond2{
+    
+    margin-top: 5%;
+    height: 100%;
+    width: 100%;
+    background: url("image/fond2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fond3{
+    margin-top: 2%;
+    opacity: 1;
+    background-color: rgb(47, 129, 188);
+    background-size: auto;
+    background-attachment: scroll;
+    background-repeat: repeat;
+    background-position: left top;
+    border-radius: 0px;
+    border: none;
+    box-shadow: none;
+}
+
+h5{
+    color: rgba(255, 255, 255, 0);
+}
+
+.row{
+    margin-top: 10%;
+    margin-left: 0%;
+}
+
+#col2{
+    margin-top: 4%;
+}
+
+.logo{
+    width: 10%;
+    margin-top: 44%;
+    margin-left: 25%;
+}
+
+input[type=email], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: rgb(47, 129, 188);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: rgb(23, 91, 139);
+  }
+  
+  /* Add a background color and some padding around the form */
+  .contener {
+    margin-left: 40%;
+    margin-right: 10%;
+    margin-top: -15%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  .hidden-bottom{
+    overflow: hidden;
+    margin-top: 2%;
+    padding: 20px;
+    opacity: 1;
+    background-color: #002D59;
+    background-size: auto;
+    background-attachment: scroll;
+    background-repeat: repeat;
+    background-position: left top;
+    border-radius: 0px;
+    border: none;
+    box-shadow: none;
+  }
+
+  .hidden{
+      color:white;
+      text-align: center;
+      
+  }
+
+  #menu2{
+      margin-top: 7%   ;
+  }
+
+  #menu3{
+      margin-top: 2%;
+  }
+
+
+  .logotop{
+      max-width: 15%;
+  }
